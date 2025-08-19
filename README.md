@@ -58,7 +58,7 @@ Tableau-HR-Analytics/
 ├── 📊 Complete_Dashboard.twbx           # Tableau packaged workbook
 ├── 📈 hr-data-analysis.xlsx             # HR dataset
 ├── 📋 HR Dataset Insights Worksheets.pdf# Analysis documentation
-├──  Images/                           # Visualization screenshots
+├── 📂 Images/                           # Visualization screenshots
 │   ├── Dashboard.png                    # Main dashboard overview
 │   ├── 1. How many people are in each job.png
 │   ├── 2 Gender Distribution Pie Chart.png
