@@ -1,0 +1,62 @@
+# Ignore Tableau temporary files
+*.twb~
+*.twbx~
+.twbr/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore backup files
+*.bak
+*_backup.*
+*_old.*
+
+# Ignore log files
+*.log
+
+# Ignore temporary Excel files
+~$*.xlsx
+~$*.xls
+
+# Ignore personal Tableau files
+*.tds
+*.tde
+*.hyper~
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore personal notes and drafts
+notes/
+drafts/
+personal/
+
+# Ignore large video files (keep references to them)
+# Uncomment if video files are too large for GitHub
+# *.mp4
+# *.mov
+# *.avi
+
+# Ignore sensitive data files
+*sensitive*
+*confidential*
+*private*
+
+# Ignore development/testing files
+test_*
+dev_*
+staging_*
