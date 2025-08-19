@@ -1,5 +1,7 @@
 # 🚀 Quick Hosting Setup Script
 
+> **🎉 SETUP COMPLETE!** Dashboard is now live at: [the-harsh-vardhan.github.io/Tableau-Dashboard](https://the-harsh-vardhan.github.io/Tableau-Dashboard/)
+
 # This file contains the steps to quickly set up your dashboard hosting
 # Follow these steps in order for the fastest setup
 

@@ -2,13 +2,17 @@
 
 > Advanced Tableau visualization project analyzing HR data with comprehensive interactive dashboards
 
+[![GitHub Pages](https://img.shields.io/badge/🌐%20Live%20Site-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://the-harsh-vardhan.github.io/Tableau-Dashboard/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
 [![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Tableau%20Public-orange?style=for-the-badge&logo=tableau)](https://public.tableau.com)
 
 ## 🚀 **Live Interactive Dashboard**
 
-> **Experience the dashboard live!** Click the links below to interact with the actual Tableau dashboard online.
+> **Experience the dashboard live!** Access via GitHub Pages or directly on Tableau Public.
+
+### 🌐 **GitHub Pages Site**
+[![GitHub Pages Site](https://img.shields.io/badge/🏠%20Main%20Site-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://the-harsh-vardhan.github.io/Tableau-Dashboard/)
 
 ### 📊 **Main Dashboard**
 [![Live Dashboard](https://img.shields.io/badge/🔗%20Open%20Live%20Dashboard-Tableau%20Public-E97627?style=for-the-badge)](https://public.tableau.com/views/HRDataAnalysis_17555972332030/Story?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -369,22 +373,21 @@ DATEDIFF('year', [Date of Join], TODAY())
 - [Tableau Public Gallery](https://public.tableau.com/gallery)
 - [HR Analytics Inspiration](https://public.tableau.com/search/vizzes/hr%20analytics)
 
-## 🌐 Hosting Your Dashboard Online
+## 🌐 Live Deployment
 
-Want to host this dashboard online? Check out our comprehensive hosting guide:
+This dashboard is now **live and accessible online**! Experience the full project through multiple channels:
 
-### **Quick Hosting Options**
-- **[📖 Complete Hosting Guide](HOSTING_GUIDE.md)** - Step-by-step instructions
-- **[🚀 Tableau Public](https://public.tableau.com)** - Free online hosting (recommended)
-- **[📄 GitHub Pages Template](index.html)** - Ready-to-use HTML template
+### **🏠 Main Project Site**
+[![GitHub Pages](https://img.shields.io/badge/Visit%20Live%20Site-GitHub%20Pages-success?style=for-the-badge&logo=github)](https://the-harsh-vardhan.github.io/Tableau-Dashboard/)
 
-### **Live Dashboard Setup**
-1. **Anonymize your HR data** (remove personal information)
-2. **Publish to Tableau Public** (free account required)
-3. **Update the placeholder links** in README.md
-4. **Optional**: Use GitHub Pages for custom hosting
+### **📊 Direct Dashboard Access**
+- **[Interactive Dashboard](https://the-harsh-vardhan.github.io/Tableau-Dashboard/)** - Full embedded experience
+- **[Navigation Hub](https://the-harsh-vardhan.github.io/Tableau-Dashboard/dashboard.html)** - Quick access to all views
+- **[Tableau Public](https://public.tableau.com/views/HRDataAnalysis_17555972332030/Story)** - Native Tableau experience
 
-> **Note**: Once you publish to Tableau Public, update the placeholder links in the "Live Interactive Dashboard" section above with your actual dashboard URLs.
+### **Additional Hosting Resources**
+- **[📖 Complete Hosting Guide](HOSTING_GUIDE.md)** - Setup instructions for other platforms
+- **[🚀 Quick Setup Guide](QUICK_SETUP.md)** - Fast deployment steps
 
 ## 📋 Data Privacy & Ethics
 
@@ -407,5 +410,7 @@ This project is developed for educational and demonstration purposes. When imple
 **Project Details**  
 **Created**: August 2025 | **Course**: Tools and Practices for Data Science  
 **Institution**: IIIT Nagpur | **Focus**: Advanced Tableau Analytics
+
+**🌐 Live Site**: [the-harsh-vardhan.github.io/Tableau-Dashboard](https://the-harsh-vardhan.github.io/Tableau-Dashboard/)
 
 *This project showcases professional-level HR analytics dashboard development using advanced Tableau visualization techniques and best practices in data storytelling.*
